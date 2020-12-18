@@ -24,8 +24,8 @@ Topics will include lectures on the concepts of secure, distributed and parallel
  
 
 ### Prerequisites
-This course is an advanced course in programming. Students are expected to be competent with the programming material that is taught in COP4530 (Data Structures, Algorithms and Generic Programming).\\~\\
-All students taking COP 4521 are required to have previously taken and passed (with a C- or higher final grade) COP 4530  or an equivalent course.
+- This course is an advanced course. Students are expected to be competent with the programming material that is taught in COP4530 (Data Structures, Algorithms and Generic Programming).
+- All students taking COP 4521 are required to have previously taken and passed (with a C- or higher final grade) COP 4530  or an equivalent course.
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
