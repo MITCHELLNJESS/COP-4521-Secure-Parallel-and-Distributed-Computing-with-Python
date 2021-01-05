@@ -9,10 +9,10 @@ Xifeng Gao
 - gao@cs.fsu.edu
 - Homepage: https://gaoxifeng.github.io/
 ### Teaching Assistant
-XXX XXX
+Shaeke Salman
 - Office: TBD
-- Office hours: TBD
-- TBD
+- Office hours: Tuesdays 13:00 - 16:00
+- ss17s@my.fsu.edu
 
 ### Course Goals
 
