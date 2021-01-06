@@ -29,7 +29,8 @@ Topics will include lectures on the concepts of secure, distributed and parallel
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
-- Week 1: Syntax for Python Programming: Modules, Functions and Object Oriented Programming
+- 01/06/2021: [Introduction, Python Basics](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/1.%20Introduction.pdf)
+- 01/11/2021: Python Modules, Functions and Object Oriented Programming
 - Assignment 1: Python coding
 - Week 2: Syntax for Python Programming: Data Structures, Standard Library, Numpy and SciPy Libraries
 - Assignment 2: Python coding
