@@ -51,6 +51,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Week 15: Final Exam - during Finals Week
 
 ### Textbook
+- python-in-a-nutshell-3rd-edition
 - Information Security: Principles and Practice 2nd Edition by Mark Stamp (Wiley)
 - Topics in Parallel and Distributed Computing: Introducing Concurrency in Undergraduate Courses by Prasad, Gupta, Rosenberg, Sussman and Weems (Morgan Kauffman)
 
