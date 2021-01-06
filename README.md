@@ -1,7 +1,7 @@
 ## Secure Parallel and Distributed Computing with Python, Spring 2021 COP 4521
 -------------------------------------------------
 ### Lectures
-- MoWe 16:50 - 18:05, remote using Zoom (https://fsu.zoom.us/j/91739779790)
+- MoWe 16:50 - 18:05, remote using Zoom 
 ### Course Instructor
 Xifeng Gao
 - Office: 251A Love Building
