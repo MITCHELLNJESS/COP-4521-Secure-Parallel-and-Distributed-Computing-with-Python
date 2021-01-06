@@ -30,20 +30,24 @@ Topics will include lectures on the concepts of secure, distributed and parallel
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
 - Week 1: Syntax for Python Programming: Modules, Functions and Object Oriented Programming
+- Assignment 1: Python coding
 - Week 2: Syntax for Python Programming: Data Structures, Standard Library, Numpy and SciPy Libraries
+- Assignment 2: Python coding
 - Week 3: Introduction to information Management, Databases and SQL
 - Week 4:  Web Programming and Interacting with Databases using Python: flask, Django and SQLAlchemy libraries
+- Assignment 3: Database
 - Week 5 : Introduction to Computer Security and secure coding practices
 - Week 6: Access Control, Hashing, and Cryptographic Random Numbers
 - Weeks 7,8: Cryptography: Symmetric and Asymmetric Encryption
 - Week 8, second class period: Midterm
 - Week 9, 10: Malicious Software and Defences, Computationally Secure Languages and Software
-- Week 11:Introduction to Networking and Socket Programming
-- Week 12: Introduction to Distributed Programming
-- Week 13: Distributed Programming Using the dispy and ray libraries
-- Week 14: Introduction to Parallel Computing
-- Week 15: Parallel Programming using : process, pool, multiprocessing, and threads libraries
-- Week 16: Final Exam - during Finals Week
+- Assignment 4: Security
+- Week 11: Introduction to Parallel Computing
+- Week 12: Parallel Programming using : process, pool, multiprocessing, and threads libraries
+- Assignment 5: Parallel computing
+- Week 13: Introduction to Distributed Programming
+- Week 14: Distributed Programming Using the dispy and ray libraries
+- Week 15: Final Exam - during Finals Week
 
 ### Textbook
 - Information Security: Principles and Practice 2nd Edition by Mark Stamp (Wiley)
