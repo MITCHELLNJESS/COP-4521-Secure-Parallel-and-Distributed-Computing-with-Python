@@ -32,7 +32,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 01/06/2021: [Introduction, Python Basics](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/1.%20Introduction.pdf)
 - 01/11/2021: [Python Modules, Functions](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/2.Modules.pdf)
 - [Assignment 1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/homework1.pdf)
-- 01/13/2021: [Data structure in Python]
+- 01/13/2021: [Data structure in Python](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/3.DataStructures.pdf)
 - Week 2: Object Oriented Programming, and Syntax for Python Programming: Data Structures, Standard Library, Numpy and SciPy Libraries
 - Assignment 2: Python coding
 - Week 3: Introduction to information Management, Databases and SQL
