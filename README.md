@@ -36,7 +36,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 01/21/2021: [Object Oriented Programming](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/4.OOPConcepts.pdf), [accepts.py](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/accepts.py), [frac.py](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/frac.py)
 - [Assignment 2](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/homework2.pdf)
 - 01/25/2021: [Python Built-ins_1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/5.Python-Builtins1.pdf), [Python Built-ins_2](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/5.Python-Builtins2.pdf), [Intro to Database](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/6.Databases.pdf)
-- 01/27/2021: [Introduction to information Management, Databases and SQL]
+- 01/27/2021: [Databases](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/7.relational_dataset-sql.pdf), [SQL](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/SQLReference.pdf)
 - Week 4:  Web Programming and Interacting with Databases using Python: flask, Django and SQLAlchemy libraries
 - Assignment 3: Database
 - Week 5 : Introduction to Computer Security and secure coding practices
