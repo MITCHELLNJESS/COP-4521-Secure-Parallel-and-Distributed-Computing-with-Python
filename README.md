@@ -40,7 +40,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 02/01/2021: [Flask and Sqlite](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/8.Flask_sqlite.pdf), [hello.py](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/hello.py), [newStu.py](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/newStu.py), [setup.py](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/setup.py), html files in templates folder
 - 02/03/2021: [NonSQL Database](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/9.NonSQLDB.pdf)
 - [Assignment 3](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/homework3.pdf)
-- Week 5 : Introduction to Computer Security and secure coding practices
+- 02/08/2021: [Introduction to Computer Security](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/10.Intro-Security.pdf)
 - Week 6: Access Control, Hashing, and Cryptographic Random Numbers
 - Weeks 7,8: Cryptography: Symmetric and Asymmetric Encryption
 - Week 8, second class period: Midterm
