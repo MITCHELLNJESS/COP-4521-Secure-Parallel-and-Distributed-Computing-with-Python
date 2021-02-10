@@ -6,7 +6,7 @@
 Xifeng Gao
 - Office: 251A Love Building
 - Office hours: Mondays 15:30 - 16:30 (before class)
-- gao@cs.fsu.edu
+- xgao4@fsu.edu
 - Homepage: https://gaoxifeng.github.io/
 ### Teaching Assistant
 Shaeke Salman
