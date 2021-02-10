@@ -41,6 +41,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 02/03/2021: [NonSQL Database](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/9.NonSQLDB.pdf)
 - [Assignment 3](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/homework3.pdf)
 - 02/08/2021: [Introduction to Computer Security](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/10.Intro-Security.pdf)
+- 02/10/2021: [Crypto History](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/11.Crypto-History.pdf)
 - Week 6: Access Control, Hashing, and Cryptographic Random Numbers
 - Weeks 7,8: Cryptography: Symmetric and Asymmetric Encryption
 - Week 8, second class period: Midterm
