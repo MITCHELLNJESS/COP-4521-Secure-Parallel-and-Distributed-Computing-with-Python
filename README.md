@@ -43,7 +43,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 02/08/2021: [Introduction to Computer Security](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/10.Intro-Security.pdf)
 - 02/10/2021: [Crypto History](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/11.Crypto-History.pdf)
 - 02/15/2021: [Symmetric Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/12.symmetric-key-stream0cipher.pdf)
-- Week 6: Access Control, Hashing, and Cryptographic Random Numbers
+- 02/17/2021: [Block Ciphers]
 - Weeks 7,8: Cryptography: Symmetric and Asymmetric Encryption
 - Week 8, second class period: Midterm
 - Week 9, 10: Malicious Software and Defences, Computationally Secure Languages and Software
