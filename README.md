@@ -45,7 +45,9 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 02/15/2021: [Symmetric Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/12.symmetric-key-stream0cipher.pdf)
 - 02/17/2021: [Block Ciphers](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/13.Other-block-ciphers.pdf)
 - 02/22/2021: [Knapsack and RSA](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/14.public-cryptography.pdf)
-- Week 8, second class period: Midterm
+- 02/24/2021: []
+- 03/01/2021: []
+- 03/03/2021: Midterm Exam
 - Week 9, 10: Malicious Software and Defences, Computationally Secure Languages and Software
 - Assignment 4: Security
 - Week 11: Introduction to Parallel Computing
