@@ -49,7 +49,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 03/01/2021: [Public Key Usages](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/16.Public-Key-Usages.pdf)
 - 03/03/2021: [Hash Function](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/17.Hash-function.pdf)
 - 03/08/2021: Midterm Exam
-- Week 9, 10: Malicious Software and Defences, Computationally Secure Languages and Software
+- 03/10/2021: [Hash Function and Others](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/18.Hash-function-and-others.pdf) 
+- Week 10: Crypto Analysis
 - Assignment 4: Security
 - Week 11: Introduction to Parallel Computing
 - Week 12: Parallel Programming using : process, pool, multiprocessing, and threads libraries
