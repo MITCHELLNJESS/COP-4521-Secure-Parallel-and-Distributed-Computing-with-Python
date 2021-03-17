@@ -51,7 +51,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 03/08/2021: Midterm Exam
 - 03/10/2021: [Hash Function and Others](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/18.Hash-function-and-others.pdf) 
 - 03/15/2021: [Crypto Analysis - Symmetric Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/19.crypto-analysis1.pdf)
-- 03/17/2021: [Crypto Analysis - Public Key Cipher]
+- 03/17/2021: [Crypto Analysis - Public Key Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/20.crypto-analysis2.pdf)
 - Assignment 4: Security
 - Week 11: Introduction to Parallel Computing
 - Week 12: Parallel Programming using : process, pool, multiprocessing, and threads libraries
