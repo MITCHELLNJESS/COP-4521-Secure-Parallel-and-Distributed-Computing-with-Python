@@ -53,11 +53,12 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 03/15/2021: [Crypto Analysis - Symmetric Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/19.crypto-analysis1.pdf)
 - 03/17/2021: [Crypto Analysis - Public Key Cipher](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/20.crypto-analysis2.pdf)
 - Assignment 4: [Crypto](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Homework4.pdf)
-- Week 11: Introduction to Parallel Computing
-- Week 12: Parallel Programming using : process, pool, multiprocessing, and threads libraries
+- 03/22/2021: [Python Concurrency-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel1.pdf)
+- 03/24/2021: [Python Concurrency-2]
+- Week 12: Parallel Programming
 - Assignment 5: Parallel computing
-- Week 13: Introduction to Distributed Programming
-- Week 14: Distributed Programming Using the dispy and ray libraries
+- Week 13: Parallel Programming
+- Week 14: Parallel Programming (GPU)
 - Week 15: Final Exam - during Finals Week
 
 ### Textbook
