@@ -55,6 +55,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 4: [Crypto](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Homework4.pdf)
 - 03/22/2021: [Python Concurrency-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel1.pdf)
 - 03/24/2021: [Python Concurrency-2](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel2.pdf)
+- 03/29/2021: [Introduction to Parallel Computing-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel3.pdf)
 - Week 12: Parallel Programming
 - Assignment 5: Parallel computing
 - Week 13: Parallel Programming
