@@ -56,8 +56,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 03/22/2021: [Python Concurrency-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel1.pdf)
 - 03/24/2021: [Python Concurrency-2](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel2.pdf)
 - 03/29/2021: [Introduction to Parallel Computing-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel3.pdf)
-- Week 12: Parallel Programming
-- Assignment 5: Parallel computing
+- 03/31/2021: [Introduction to Parallel Computing-2](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel4.pdf)
+- Assignment 5: Parallel computing (canceled)
 - Week 13: Parallel Programming
 - Week 14: Parallel Programming (GPU)
 - Week 15: Final Exam - during Finals Week
@@ -80,7 +80,7 @@ The final course grade will be computed as follows:
 |Class partition| 10 |
 |Assignments| 50 |
 |Midterm Exam| 10 |
-|Final Exam|30|
+|Final Exam|35|
 
 ### Late Assignment Policy
 Students are expected to turn their assignments in on or before the due date. Late assignments will suffer a 10 percentage point penalty for the first 24 hour period. For example, an assignment worth 200 points turned in late will receive a 20 point penalty. Assignments turned in more than a day after the due date will receive a grade of 0, but you can still have it graded and receive feedback.
