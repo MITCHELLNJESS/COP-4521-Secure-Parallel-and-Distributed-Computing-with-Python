@@ -61,7 +61,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - 04/05/2021: [Introduction to Parallel Computing-3](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel5.pdf)
 - 04/07/2021: [Introduction to Parallel Computing-4](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel6.pdf)
 - Week 14: Parallel Programming (GPU)
-- Week 15: Final Exam - during Finals Week
+- Final Exam: 5:30 p.m. - 7:30 p.m., Wednesday, April 21, 2021
 
 ### Textbook
 - python-in-a-nutshell-3rd-edition
