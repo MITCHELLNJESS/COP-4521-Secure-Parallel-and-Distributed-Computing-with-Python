@@ -60,7 +60,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 5: Parallel computing (canceled)
 - 04/05/2021: [Introduction to Parallel Computing-3](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel5.pdf)
 - 04/07/2021: [Introduction to Parallel Computing-4](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Python-parallel6.pdf)
-- Week 14: Parallel Programming (GPU)
+- 04/12/2021: [Introduction to GPU Computing-1](https://github.com/FSU-ComputerGraphics/COP-4521-Secure-Parallel-and-Distributed-Computing-with-Python/blob/main/Intro-to-GPU-1.pdf)
 - Final Exam: 5:30 p.m. - 7:30 p.m., Monday, April 19, 2021
 
 ### Textbook
